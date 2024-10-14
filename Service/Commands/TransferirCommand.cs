@@ -1,6 +1,6 @@
-﻿using IOB___Controle_de_Saldo_Bancario.Model;
+﻿using IOB___Controle_de_Saldo_Bancario.Enum;
+using IOB___Controle_de_Saldo_Bancario.Model;
 using IOB___Controle_de_Saldo_Bancario.Repository;
-using Microsoft.OpenApi.Models;
 
 namespace IOB___Controle_de_Saldo_Bancario.Service.Commands
 {

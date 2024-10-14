@@ -15,11 +15,4 @@ namespace IOB___Controle_de_Saldo_Bancario.Model
         public DateTime UpdateDate { get; set; }
 
     }
-
-    public enum OperationTypeEnum
-    {
-        Credit,
-        Debit,
-        Transfer
-    }
 }
